@@ -1,7 +1,7 @@
 # AHackersDiary
 ---
-layout: default
-title: The Digital Empress Infosec Project Blog
+
+The Digital Empress Infosec Project Blog
 ---
 
 # A Hacker's Diary
