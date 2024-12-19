@@ -1,7 +1,7 @@
 title: A Hacker's Diary
 description: Documenting the cybersecurity projects I create for fun
 baseurl: "" # The base URL for your site, leave empty for now
-url: "https://thedigitalempress.github.io/AHackersDiary" # Replace with your GitHub Pages URL
+url: "https://thedigitalempress.github.io/AHackersDiary" # GitHub Pages URL
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-remote-theme
