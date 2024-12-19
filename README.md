@@ -1,4 +1,4 @@
-# A Hackers Diary
+# A Hacker's Diary
 ---
 
 The Digital Empress Infosec Project Blog
